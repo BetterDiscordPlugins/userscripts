@@ -4,7 +4,7 @@
  * @author somebody
  * @authorId 153146360705712128
  * @authorLink https://github.com/somebody1234
- * @version 0.0.1
+ * @version 0.0.2
  * @source https://raw.githubusercontent.com/somebody1234/userscripts/master/NRM.plugin.js
  * @updateUrl https://raw.githubusercontent.com/somebody1234/userscripts/master/NRM.plugin.js
  */
